@@ -1,5 +1,5 @@
 # ManageSchool
-It's a School Management System made in tkInter + Python 3
+It's a School Management System made in tkInter + Python 3 + sqlite
 
 ## UI ->
 
